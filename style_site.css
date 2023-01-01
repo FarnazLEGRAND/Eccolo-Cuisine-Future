@@ -1,0 +1,113 @@
+@charset "utf-8";
+body {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	color: #000;
+	background-color: #4B762F;
+}
+#container {
+	background-color: #AAD488;
+	height: 1900px;
+	width: 900px;
+	margin-left: auto;
+	position: relative;
+	margin-right: auto;
+	text-align: left;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+#Main {
+	position:absolute;
+	left:184px;
+	top:167px;
+	width:641px;
+	height:1652px;
+	z-index:1;
+	background-color: #E9F4DF;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	margin: 0px;
+	padding: 25px;
+	color: #000;
+}
+a:link {
+	font-size: 14px;
+	font-weight: bold;
+	color: #45662D;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-decoration: none;
+}
+#Main h1 {
+	font-size: 24px;
+	color: #28323C;
+	text-align: center;
+	font-weight: bold;
+	background-color: #E2DFD6;
+}
+a:hover {
+	color: #C1DBA2;
+}
+a:visited {
+	color: #FFF;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-align: center;
+}
+#separationmenu {
+	font-size: 18px;
+	color: #45662D;
+	font-weight: bold;
+}
+#apDiv3 {
+	position:absolute;
+	left:0px;
+	top:109px;
+	width:876px;
+	height:45px;
+	z-index:1;
+	text-align: right;
+	background-color: #8FBD57;
+	padding-right: 20px;
+	border: 2px dotted #E2E9F3;
+}
+#Main p {
+	font-size: 14px;
+	text-align: center;
+	font-weight: bold;
+}
+#apDiv1 {
+	position:absolute;
+	left:26px;
+	top:169px;
+	width:124px;
+	height:1688px;
+	z-index:1;
+	background-color: #8FBD57;
+	padding: 5px;
+	font-weight: bold;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	border: 2px dotted #E2E9F3;
+}
+#apDiv1 #menuitem {
+	background-color: #B4DA92;
+	border: 2px solid #45662D;
+}
+#apDiv2 {
+	position:relative;
+	left:0px;
+	top:0px;
+	width:191px;
+	height:1068px;
+	z-index:1;
+	background-color: #8FBD57;
+}
+#apDiv1 #menuitem a {
+	color: #45662D;
+}
